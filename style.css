@@ -37,3 +37,11 @@ input{
 #result-div{
     font-weight: 800;
 }
+
+@media screen and (max-width:576px) {
+    .container{
+        max-width: 300px;
+      
+    }
+
+}
